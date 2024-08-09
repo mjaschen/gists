@@ -1,0 +1,14 @@
+graph "DE" {
+    BB -- MV, BE, SN, SA
+    BR -- NI
+    BW -- RP, HE, BY
+    BY -- HE, TH, SN
+    HA -- SH, NI
+    HE -- NW, NI, TH, RP
+    MV -- SH, NI
+    NI -- SH, BB, NW, TH, SA
+    NW -- RP
+    RP -- SL
+    SA -- SN, TH
+    SN -- TH
+}
