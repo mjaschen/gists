@@ -10,3 +10,4 @@
 | Basemap.de Hillshade | `https://sgx.geodatenzentrum.de/wmts_basemapde_schummerung/tile/1.0.0/de_basemapde_web_raster_hillshade/default/GLOBAL_WEBMERCATOR/{z}/{y}/{x}.png` |
 | Garmin Gravel	Heatmap | `https://connecttile.garmin.com/GRAVEL_BIKING/{z}/{x}/{y}.png` |
 | Garmin Road	Heatmap | `https://connecttile.garmin.com/ROAD_CYCLING/{z}/{x}/{y}.png` |
+| Open Railway Map | `https://tiles.openrailwaymap.org/standard/{z}/{x}/{y}.png` |
