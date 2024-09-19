@@ -9,6 +9,6 @@
 | Strava Heatmap Run | `https://proxy.nakarte.me/https/heatmap-external-b.strava.com/tiles-auth/run/red/{z}/{x}/{y}.png?px=256` |
 | [Basemap.de Hillshade](https://basemap.de/web_raster_schummerung/) | `https://sgx.geodatenzentrum.de/wmts_basemapde_schummerung/tile/1.0.0/de_basemapde_web_raster_hillshade/default/GLOBAL_WEBMERCATOR/{z}/{y}/{x}.png` |
 | [ESRI World Hillshade](https://arcg.is/00b0vC) | `https://services.arcgisonline.com/ArcGIS/rest/services/Elevation/World_Hillshade/MapServer/tile/{z}/{y}/{x}` |
-| Garmin Gravel	Heatmap | `https://connecttile.garmin.com/GRAVEL_BIKING/{z}/{x}/{y}.png` |
-| Garmin Road	Heatmap | `https://connecttile.garmin.com/ROAD_CYCLING/{z}/{x}/{y}.png` |
+| Garmin Gravel Heatmap | `https://connecttile.garmin.com/GRAVEL_BIKING/{z}/{x}/{y}.png` |
+| Garmin Road Heatmap | `https://connecttile.garmin.com/ROAD_CYCLING/{z}/{x}/{y}.png` |
 | [Open Railway Map](https://openrailwaymap.org/) | `https://tiles.openrailwaymap.org/standard/{z}/{x}/{y}.png` |
